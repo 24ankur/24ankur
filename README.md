@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=24ankur" alt="24ankur" /></a> </p>
 
-- 🔭 I’m currently working on project [Dotnet core](https://github.com/24ankur/webapiproject)
+- 🔭 I’m currently working on project [https://github.com/24ankur/webapiproject](https://github.com/24ankur/webapiproject)
 
 - 🌱 I’m currently learning **ReactJs, Database Design**
-
-- 👨‍💻 All of my projects are available at [https://github.com/24ankur](https://github.com/24ankur)
 
 - 💬 Ask me about **Dotnet core webapi, CSS, HTML, MVC**
 
