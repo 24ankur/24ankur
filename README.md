@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=24ankur" alt="24ankur" /></a> </p>
 
 
-- 🌱 I’m currently learning **ReactJs, Database Design**
+- 🌱 I’m currently learning **Angular 12, Database Design**
 
 - 💬 Ask me about **Dotnet core webapi, CSS, HTML, MVC**
 
